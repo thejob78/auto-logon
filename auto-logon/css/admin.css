@@ -1,0 +1,22 @@
+.form-table-admin {
+	text-size:small;
+	border: 1px solid #ccc;
+width: 100%;
+margin-bottom: 8px;
+clear: both;
+}
+.form-table-admin td{
+margin-bottom: 9px;
+padding: 8px 10px;
+line-height: 20px;
+font-size: 12px;
+}
+.form-table-admin th{
+vertical-align: top;
+text-align: left;
+padding: 10px;
+width: 200px;
+font-weight: normal;
+}
+
+
